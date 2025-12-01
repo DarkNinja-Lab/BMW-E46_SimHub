@@ -21,7 +21,6 @@ Coolant Temperature
 Calculation, maxTemp=260.00f, minTemp=50.00f
 Temp Scaling to Float based on temperaturerange from 50 to 130 Degree Celsius
 
---
 
 ## K-Bus-Data
 
